@@ -1,2 +1,0 @@
-# Sitio Colaborativo
-#hola dylan
